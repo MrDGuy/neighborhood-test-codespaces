@@ -20,6 +20,7 @@ public class MyNeighborhood {
             myPainter.turnLeft();
         }
         myPainter.move();
+        myPainter.paint("yellow");
         
 
     }
